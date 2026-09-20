@@ -101,6 +101,6 @@ Future versions could include:
 
 ## 👨‍💻 Author
 
-**Ehaab Ullah**
+** Muhammad Shah Khalid **
 
 Software Engineer | MERN Stack Developer | AI & Data Analytics Enthusiast
